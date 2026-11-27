@@ -1,7 +1,7 @@
 class ProductList {
   final List<Map<String, dynamic>> products = [
     {'id': 1, 'name': 'Nike Air Force 1'},
-    {'id': 2, 'name': 'Adidas Ultraboost'},
+    {'id': 2, 'name': 'Adidas Ultraboost 2026'},
     {'id': 3, 'name': 'New Balance 530'},
   ];
 
